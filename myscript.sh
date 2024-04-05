@@ -1,6 +1,6 @@
 #!/bin/bash
 
-myname="Mukesh"
+myname="RedHat"
 
 echo "My name is $myname"
 echo 'My name is $myname'
